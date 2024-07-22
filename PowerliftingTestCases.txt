@@ -1,0 +1,66 @@
+Test Case 1 - Powerlifter Object Informal String Representation Accuracy
+True
+True
+True
+True
+True
+True
+
+Test Case 2 - Powerlifter Object Formal String Representation Accuracy
+True
+True
+True
+True
+True
+True
+
+Test Case 3 - Powerlifter Object Valuation Accuracy
+True
+True
+True
+True
+True
+True
+
+Test Case 4 - Comparing Powerlifter Object Values using Greater Than and Less Than Operators
+True
+True
+True
+
+Test Case 5 - Comparing Powerlifter Object Values using Greater Than and Equal To and Less Than and Equal Than Operators
+True
+True
+True
+True
+True
+True
+
+Test Case 6 - Equality Between Powerlifter Object Values
+True
+True
+True
+True
+
+Test Case 7 - Ratio between Powerlifter Object Values
+True
+True
+True
+True
+True
+True
+
+Test Case 8 - Sum between Powerlifter Object 
+True
+True
+True
+True
+True
+True
+
+Test Case 9 - Difference between Powerlifter Object Values
+True
+True
+True
+True
+True
+True
